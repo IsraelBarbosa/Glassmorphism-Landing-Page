@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Glassmorphism-Landing-Page/static/css/main.caa561ff.css",
+    "main.js": "/Glassmorphism-Landing-Page/static/js/main.3c06aba1.js",
+    "static/media/heroImg.png": "/Glassmorphism-Landing-Page/static/media/heroImg.14928a7af156bcec9c73.png",
+    "index.html": "/Glassmorphism-Landing-Page/index.html",
+    "static/media/menuIcon.svg": "/Glassmorphism-Landing-Page/static/media/menuIcon.9dbc5a3a96ad85a57422263699b1695d.svg",
+    "main.caa561ff.css.map": "/Glassmorphism-Landing-Page/static/css/main.caa561ff.css.map",
+    "main.3c06aba1.js.map": "/Glassmorphism-Landing-Page/static/js/main.3c06aba1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.caa561ff.css",
+    "static/js/main.3c06aba1.js"
+  ]
+}
