@@ -1,0 +1,21 @@
+.container-header-e-hero {
+  position: relative;
+
+  padding: 50px 0;
+
+  background-image: linear-gradient(to bottom right, #ffecf5, #fff8ec);
+
+  overflow: hidden;
+}
+
+.container-header-e-hero > .container {
+  padding: 50px 0;
+
+  border: 1px solid #fff;
+  border-radius: 20px;
+
+  backdrop-filter: blur(10px) saturate(100%);
+  background-color: #ffffff3a;
+
+  overflow: hidden;
+}
